@@ -11,8 +11,5 @@
   },
   "scripts": {
     "start": "http-server -a localhost -p 8000 -c-1"
-  },
-  "dependencies": {
-    "gulp": "^3.9.1"
   }
 }
