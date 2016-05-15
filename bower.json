@@ -1,0 +1,13 @@
+{
+  "name": "Art-Connect-Website",
+  "description": "Website for Art-Connect",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-local-storage": "^0.2.7",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.2.18",
+    "angular-bootstrap": "^1.3.2",
+    "toastr": "^2.1.2"
+  }
+}

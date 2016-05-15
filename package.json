@@ -1,0 +1,18 @@
+{
+  "name": "Art-Connect-Website",
+  "description": "Website for Art-Connect",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
